@@ -1,0 +1,5 @@
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+name: Alex's Personal Pages
+markdown: redcarpet
+pygments: true
